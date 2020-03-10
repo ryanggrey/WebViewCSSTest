@@ -1,0 +1,18 @@
+p, h2, h3, h4, li {
+    color: #00233C;
+}
+
+p, li {
+    font: -apple-system-body;
+    font-family: sans-serif;
+}
+
+h2 {
+    font: -apple-system-headline;
+    font-family: sans-serif;
+}
+
+h3 {
+    font: -apple-system-short-headline;
+    font-family: sans-serif;
+}

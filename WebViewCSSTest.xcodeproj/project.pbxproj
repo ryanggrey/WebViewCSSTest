@@ -13,6 +13,7 @@
 		16E6AB5C2417EBFB008AA97C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16E6AB5A2417EBFB008AA97C /* Main.storyboard */; };
 		16E6AB5E2417EBFE008AA97C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16E6AB5D2417EBFE008AA97C /* Assets.xcassets */; };
 		16E6AB612417EBFE008AA97C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16E6AB5F2417EBFE008AA97C /* LaunchScreen.storyboard */; };
+		16E6AB6E2417EFB9008AA97C /* WebFiles in Resources */ = {isa = PBXBuildFile; fileRef = 16E6AB6D2417EFB9008AA97C /* WebFiles */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		16E6AB5D2417EBFE008AA97C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16E6AB602417EBFE008AA97C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16E6AB622417EBFE008AA97C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16E6AB6D2417EFB9008AA97C /* WebFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = WebFiles; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		16E6AB532417EBFB008AA97C /* WebViewCSSTest */ = {
 			isa = PBXGroup;
 			children = (
+				16E6AB6D2417EFB9008AA97C /* WebFiles */,
 				16E6AB542417EBFB008AA97C /* AppDelegate.swift */,
 				16E6AB562417EBFB008AA97C /* SceneDelegate.swift */,
 				16E6AB582417EBFB008AA97C /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				16E6AB612417EBFE008AA97C /* LaunchScreen.storyboard in Resources */,
+				16E6AB6E2417EFB9008AA97C /* WebFiles in Resources */,
 				16E6AB5E2417EBFE008AA97C /* Assets.xcassets in Resources */,
 				16E6AB5C2417EBFB008AA97C /* Main.storyboard in Resources */,
 			);
